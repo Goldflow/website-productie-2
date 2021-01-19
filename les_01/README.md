@@ -89,6 +89,8 @@ We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieu
 
 Vereisten:
 * Alle HTML in alle pagina's moet volledig valid zijn volgens W3 regels. Anders wordt de website niet verbeterd; zie sectie [Praktisch Advies](../praktisch-advies)
+* Website moet op Github terecht komen
+* Je zet de website online via Github door gebruik te maken van Netlify
 
 ### Resources
 
