@@ -6,9 +6,29 @@ Ik ga jullie hier een overzicht geven van verschillende praktische tips die jull
 
 Op deze pagina kan je een website ingeven om het te laten controleren en te zien of de HTML valid is. Dit is een goeie manier om te zorgen dat je webpagina / HTML volledig in orde is.
 
-Als je bij bepaalde fouten niet goed begrijpt wat je moet doen, aarzel niet om mij te contacteren.
+#### Valideren per URL
+
+Hier kan je de website ingeven en controleren op fouten:
 
 [https://validator.w3.org/](https://validator.w3.org/)
+
+#### Valideren per HTML bestand
+
+Hier kan je de html file uploaden en controleren op fouten:
+
+[https://validator.w3.org/#validate_by_upload](https://validator.w3.org/#validate_by_upload)
+
+#### Valideren met HTML tekst
+
+Hier kan je de html code / tekst plakken en controleren op fouten:
+
+[https://validator.w3.org/#validate_by_input](https://validator.w3.org/#validate_by_input)
+
+---
+
+Als je bij bepaalde fouten niet goed begrijpt wat je moet doen, aarzel niet om mij te contacteren.
+
+
 
 je kan gebruik maken van deze [VS Code extensie ](https://goldflow.github.io/website-productie/visual-code-extensions.html#vscode-htmlhint) om binnen Visual Code hulp te krijgen over mogelijke fouten.
 
