@@ -38,7 +38,42 @@ Ik ga er van uit dat de meesten al reeds Visual Studio Code geïnstalleerd hebbe
 
 [https://goldflow.github.io/website-productie/visual-code-extensions.html](https://goldflow.github.io/website-productie/visual-code-extensions.html)
 
-## 1.2 Enkele opdrachten
+## 1.2 Tooling Gebruiken
+
+### Oefening om GIT te gebruiken
+
+#### Repository creatie
+
+Hier leg ik uit hoe we onze eerste repository crëeren.
+
+<video width="600" controls>
+<source src="create-repository.mkv">
+</video>
+
+#### Repository clonen in SourceTree
+
+Hier leg ik uit hoe je een repository kan clonen in SourceTree
+
+<video width="600" controls>
+<source src="clone-repo-in-source-tree.mkv">
+</video>
+
+#### De map die gelinkt is aan je repository terugvinden op je PC
+
+Hier leg ik uit hoe je de repository kan terugvinden in je systeem vanuit SourceTree
+
+<video width="600" controls>
+<source src="locate-repo-on-pc.mkv">
+</video>
+
+
+#### Hoe je een verandering maakt op je repository
+
+Hier leg ik uit hoe je veranderingen kan maken in je repository
+
+<video width="600" controls>
+<source src="first-commit.mkv">
+</video>
 
 ### OPDRACHT: Maak een account op GitHub
 
@@ -53,7 +88,7 @@ Vervolgens mag je je GitHub account delen in #general channel in Discord.
 We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieuwe zaken aan te leren. We gaan onze Portfolio op Github plaatsen en die dan online zetten via Netlify.
 
 Vereisten:
-* Alle HTML in alle pagina's moet volledig valid zijn volgens W3 regels. Anders wordt de website niet verbeterd; zie sectie [Praktisch Advies](../praktisch-advies/README.md)
+* Alle HTML in alle pagina's moet volledig valid zijn volgens W3 regels. Anders wordt de website niet verbeterd; zie sectie [Praktisch Advies](../praktisch-advies)
 
 ### Resources
 
