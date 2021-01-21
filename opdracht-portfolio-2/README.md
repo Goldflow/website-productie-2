@@ -23,7 +23,7 @@ We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieu
 
 - Alle HTML in alle pagina's moet volledig valid zijn volgens W3 regels. **Anders wordt de website niet verbeterd**; zie sectie [Praktisch Advies](../praktisch-advies)
 - Website moet op Github terecht komen
-- Je zet de website online via Github door gebruik te maken van Netlify
+- Je zet de website online via Github door gebruik te maken van Netlify. Je kan in [Les 1 terugvinden hoe dit doet (hier klikken)](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen)
 
 ## Indienen
 

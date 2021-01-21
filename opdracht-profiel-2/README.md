@@ -24,13 +24,17 @@ Het idee is dat de linkbaar is via een publieke pagina, dus zet er niets op dat 
 - op zijn minst 1 video die je leuk vind en graag wil delen met de klas (die kan bekeken worden op je profiel) -> hiervoor gebruik je het `<video>`-element
 - op zijn minst 1 stukje muziek dat je leuk vind of bij jou past, die je graag wil delen met de klas (dat kan beluisterd worden op je profiel) -> hiervoor gebruik je het `<audio>`-element
 - Wat je favoriete ontbijt is
-- Quote / Wijze raad voor iemand / iets dat je inspireert
+- Op zijn minst 1 Quote / Wijze raad van iemand / over iets dat je inspireert
 > 'Don't believe everything you think. Thoughts are just that - thoughts.' bv.
-- Een grap (niet langer dan 2 zinnen) bv.:
+- Op zijn minst 1 grap (niet langer dan 2 zinnen) bv.:
 
 > Later wil ik vier dochters, dan noem ik ze allemaal Joyce.
 >
 > Als iemand dan vraagt hoe mijn kinderen heten kan ik zeggen dat het een multiple joyce-vraag is.
+
+of
+
+> ‘Acné heb je, ja kun je krijgen’
 
 ## Technische Vereisten
 
