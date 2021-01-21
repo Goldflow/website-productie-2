@@ -5,7 +5,6 @@ Leerdoelen:
 - software leren gebruiken
   - VS Code
   - GitHub
-  - Netlify
   - Git Client
 - HTML herhaling
 - CSS herhaling
@@ -14,7 +13,15 @@ Leerdoelen:
 
 Je mag als basis gerust je Profiel nemen van Website Productie 1, maar je zal hier sowieso nog aanpassingen aan moeten doen. Tip: om zo weinig mogelijk fouten te moeten verbeteren, hoe het zo minimaal mogelijk (weliswaar moet je voldoen aan alle vereisten).
 
-Het idee is dat de linkbaar is via een publieke pagina, dus zet er niets op dat je niet graag wil delen met de klas of met de wereld.
+Het idee is dat de linkbaar is via een publieke pagina ([die kan je hier vinden](https://gracious-pike-7c86fa.netlify.app/)) dus zet er niets op dat je niet graag wil delen met de klas of met de wereld.
+
+De repository waarop je je profiel zal zetten behoort mij toe maar de hele klas heeft daar toegang toe.
+
+Repository link: `https://github.com/Goldflow/github-voorbeeld.git`
+
+Dit is ook een oefening op het leren werken in een repository met verschillende gebruikers.
+
+De repository is ook gelinkt aan Netlify dus telkens dat iemand een verandering maakt, zal die automatisch deployed worden op: [https://gracious-pike-7c86fa.netlify.app/](https://gracious-pike-7c86fa.netlify.app/)
 
 ## Inhoudelijke vereisten
 
@@ -25,7 +32,9 @@ Het idee is dat de linkbaar is via een publieke pagina, dus zet er niets op dat 
 - op zijn minst 1 stukje muziek dat je leuk vind of bij jou past, die je graag wil delen met de klas (dat kan beluisterd worden op je profiel) -> hiervoor gebruik je het `<audio>`-element
 - Wat je favoriete ontbijt is
 - Op zijn minst 1 Quote / Wijze raad van iemand / over iets dat je inspireert
+
 > 'Don't believe everything you think. Thoughts are just that - thoughts.' bv.
+
 - Op zijn minst 1 grap (niet langer dan 2 zinnen) bv.:
 
 > Later wil ik vier dochters, dan noem ik ze allemaal Joyce.
@@ -40,9 +49,11 @@ of
 
 - HTML moet correct zijn en valid; [in de sectie Praktisch Advies leg ik uit hoe je dit kan doen](https://goldflow.github.io/website-productie-2/praktisch-advies/#html-valideren) > ***ANDERS WORDT DIT NIET VERBETERD***
 - Gebruik op zijn minst 2 andere kleuren dan zwart
-- Je gaat gebruik maken van deze repository: `https://github.com/Goldflow/github-voorbeeld.git` en je gaat in het mapje met jouw naam, je profiel plaatsen. Als je hier nog geen toegang tot hebt, contacteer mij direct.
+- Je gaat gebruik maken van deze repository: `https://github.com/Goldflow/github-voorbeeld.git` > Als je hier nog geen toegang tot hebt, contacteer mij direct.
+- Je mag enkel bestanden plaatsen in de map met jouw naam.
+- Je past bestanden van andere studenten of van mij niet aan (ik zal dit kunnen zien :) )
 - Zorg dat alle gebruikte afbeeldingen, video & audio bestanden ook in je opdracht zitten wanneer je die indient.
-- Naam van je `.html` bestand mag geen spaties of speciale tekens bevatten! _ en - zijn echter wel toegelaten, dus bv: `profiel_Karim-Dehbi.html`
+- Naam van je `.html` bestand MOET `index.html` zijn!
 
 ## Indienen
 
