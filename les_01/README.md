@@ -1,6 +1,6 @@
 # Les 1: Herhaling & Tooling
 
-## 1.1 Tooling
+## 1. Tooling
 
 Er zijn verschillende applicaties & websites die ons goed kunnen helpen bij het leren ontwikkelen van websites. Voor deze les gaan we een account maken bij GitHub. Vervolgens gebruiken we dezelfde account voor CodePen. Er volgt een video die uitlegt hoe je dit doet.
 
@@ -38,11 +38,70 @@ Ik ga er van uit dat de meesten al reeds Visual Studio Code geïnstalleerd hebbe
 
 [https://goldflow.github.io/website-productie/visual-code-extensions.html](https://goldflow.github.io/website-productie/visual-code-extensions.html)
 
-## 1.2 Tooling Gebruiken
+## 2. Voorbereiding
 
-### Oefening om GIT te gebruiken
+### Repository uitleg
 
-#### Repository creatie
+Repository = een soort van online map / folder waarin bestanden staan. 
+
+We kunnen hier op onze eigen computer lokaal een kopie van maken. Eenmaal we veranderingen hebben aangebracht in onze kopie, kunnen we zorgen dat de onze veranderingen worden "gesynct" / gelijkgesteld met die van de online map. Met andere woorden ervoor zorgen dat de online versie en onze lokale versie dezelfde blijven.
+
+### Overzicht benodigdheden
+
+Het volgende moet reeds gedaan zijn voor je verder kan gaan:
+
+* GitHub account aangemaakt; gelieve je profiel te delen met mij anders zal je de opdracht niet kunnen uitvoeren.
+* SourceTree geïnstalleerd (in geval van Mac mag je ook opteren voor Github Desktop)
+* je bent met je GitHub account geauthenticeerd in je Git Client (SourceTree of Github Desktop)
+
+### Authenticatie in SourceTree
+
+Het is belangrijk dat je binnen SourceTree geauthenticeerd bent met je GitHub account, alleen dan zal je met success de verdere stappen kunnen uitvoeren.
+
+Stappen:
+
+* Open Sourcetree
+* klik op "Tools", dan op het submenu "Options"
+* dan klik je op het tabblad "Authentication"
+* klik op "Add" 
+* selecteer "Github" en kies "OAuth" (staat normaal gezien als standaard ingesteld)
+* klik op "Connect Account"
+
+![ ](authentication-options-sourcetree.gif)
+
+<video width="600" controls>
+<source src="github-auth-fixen.mkv">
+</video>
+
+### Authenticatie in Github Desktop
+
+Authenticeren in Github Desktop gebeurt gelijkaardig
+
+![ ](auth-github-desktop.gif)
+
+### Visual Studio plugin GitLens (optioneel)
+
+Het is ook mogelijk om Git te gebruiken in Visual Studio. De extensie [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) kan je hierbij helpen.
+
+### Git gebruiken via commandline (optioneel)
+
+Voor de mensen die verkiezen met commandline / terminal te werken (typ cmd in verkenner of voor Mac zoek naar 'Terminal')
+
+Kan je meer info hier vinden:
+
+[GIT gebruik via commandline](https://rogerdudler.github.io/git-guide/index.nl.html)
+
+---
+
+### Gebruik van GIT
+
+Voor je verdergaat, lees eerst meer over wat git is en hoe je het gebruikt. Het is normaal dat je nog niet alles zal begrijpen maar het is belangrijk dat je dit al eens doorneemt.
+
+Zie onderstaande link voor meer info:
+
+## 3. Oefeningen om Git te leren gebruiken
+
+### Repository creatie
 
 Hier leg ik uit hoe we onze eerste repository crëeren.
 
@@ -52,7 +111,7 @@ Hier leg ik uit hoe we onze eerste repository crëeren.
 
 #### Repository clonen in SourceTree
 
-Hier leg ik uit hoe je een repository kan clonen in SourceTree
+Hier leg ik uit hoe je een repository kan 'clonen' in SourceTree. We gaan met andere woorden lokaal een kopie maken van een map die online staat.
 
 <video width="600" controls>
 <source src="clone-repo-in-source-tree.mkv">
@@ -66,7 +125,6 @@ Hier leg ik uit hoe je de repository kan terugvinden in je systeem vanuit Source
 <source src="locate-repo-on-pc.mkv">
 </video>
 
-
 #### Hoe je een verandering maakt op je repository
 
 Hier leg ik uit hoe je veranderingen kan maken in je repository
@@ -75,15 +133,16 @@ Hier leg ik uit hoe je veranderingen kan maken in je repository
 <source src="first-commit.mkv">
 </video>
 
-### OPDRACHT: Maak een account op GitHub
+### Oefening: Maak een account op GitHub
 
 Voor de cursisten die Website Productie 1 hebben meegevolgd, zou je normaal al reeds je GitHub account moeten hebben.
 
 [https://github.com/](https://github.com/)
 
-Vervolgens mag je je GitHub account delen in #general channel in Discord.
+Vervolgens mag je je GitHub account delen met mij.
 
-### Opdracht: Portfolio 2.0
+
+### Opdracht: Portfolio 2.0 op GitHub
 
 We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieuwe zaken aan te leren. We gaan onze Portfolio op Github plaatsen en die dan online zetten via Netlify.
 
@@ -92,6 +151,7 @@ Vereisten:
 * Website moet op Github terecht komen
 * Je zet de website online via Github door gebruik te maken van Netlify
 
-### Resources
 
-[GIT gebruik](https://rogerdudler.github.io/git-guide/index.nl.html)
+### Opdracht: Profiel in een gedeelde repository plaatsen
+
+https://goldflow.github.io/website-productie/opdracht-profiel/
