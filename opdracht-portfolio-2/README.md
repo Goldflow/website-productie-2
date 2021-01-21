@@ -2,7 +2,7 @@
 
 Leerdoelen:
 
-- software leren gebruiken
+- software & tools leren gebruiken
   - VS Code
   - GitHub
   - Netlify
@@ -32,4 +32,4 @@ We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieu
 
 - .zip / .rar bestand van je verbeterde portfolio in de Uploadzone
 - als commentaar geef me je de link naar je website
-- geef me ook de screenshot van je Netlify pagina zodat ik kan zien dat je het online hebt gezet via Netlify, zie hieronder voor een voorbeeld:
+- geef me ook de **screenshot** van je Netlify pagina zodat ik kan zien dat je het online hebt gezet via Netlify, zie hieronder voor een voorbeeld:
