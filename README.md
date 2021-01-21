@@ -9,6 +9,10 @@ Dit is het vervolg op de cursus Website Productie 1
 
 ## Overzicht Opdrachten
 
+[Portfolio 2.0](./opdracht-portfolio-2) tegen woensdag 27/01/2021
+
+[Profiel 2.0](./opdracht-profiel-2) tegen vrijdag 29/01/2021
+
 ## Praktisch Advies HTML & CSS
 
 [Kan je hier vinden](./praktisch-advies)

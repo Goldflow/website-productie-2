@@ -133,25 +133,31 @@ Hier leg ik uit hoe je veranderingen kan maken in je repository
 <source src="first-commit.mkv">
 </video>
 
-### Oefening: Maak een account op GitHub
+---
 
-Voor de cursisten die Website Productie 1 hebben meegevolgd, zou je normaal al reeds je GitHub account moeten hebben.
+### Hoe site van Github op Netlify te plaatsen:
 
-[https://github.com/](https://github.com/)
+Hoe je een website kan online zetten door gebruik te maken van Github & Netlify.
+Eerste stap:
 
-Vervolgens mag je je GitHub account delen met mij.
+<video width="600" controls>
+<source src="intro-en-new-site.mkv">
+</video>
 
+Hoe je een nieuwe site maakt vanuit git:
 
-### Opdracht: Portfolio 2.0 op GitHub
+<video width="600" controls>
+<source src="new-site-from-git.mkv">
+</video>
 
-We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieuwe zaken aan te leren. We gaan onze Portfolio op Github plaatsen en die dan online zetten via Netlify.
+Hier leg ik uit hoe je je Git Provider kiest (in ons geval is dit GitHub) en hoe je dan je repositorie(s) kan linken met Netlify.
 
-Vereisten:
-* Alle HTML in alle pagina's moet volledig valid zijn volgens W3 regels. Anders wordt de website niet verbeterd; zie sectie [Praktisch Advies](../praktisch-advies)
-* Website moet op Github terecht komen
-* Je zet de website online via Github door gebruik te maken van Netlify
+<video width="600" controls>
+<source src="connect-to-git-provider-and-choose-repos.mkv">
+</video>
 
+Eenmaal je repositories gelinkt zijn aan Netlify, kan je voortgaan met stap 3, je repositorie kiezen en daarvan een site online ztten via Netlify.
 
-### Opdracht: Profiel in een gedeelde repository plaatsen
-
-https://goldflow.github.io/website-productie/opdracht-profiel/
+<video width="600" controls>
+<source src="choose-repo-and-build.mkv">
+</video>
