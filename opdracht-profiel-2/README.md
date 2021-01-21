@@ -59,3 +59,9 @@ of
 
 - .zip / .rar bestand van het profiel in de Uploadzone, met alle bijhorende bestanden (foto's, audio, video)
 - ik zal zelf kunnen zien of de link werkt als je alles goed hebt gedaan
+
+## Vragen / Problemen
+
+Het is de bedoeling dat vanaf deze module iedereen ook gebruik maakt van [het forum van Website Productie 2](https://cvobrussel.smartschool.be/index.php?module=Forum&file=showforum&function=main&courseID=9365&ssID=1711), om zowel dingen te delen als vragen te stellen, en dat de studenten elkaar dan kunnen helpen.
+
+Je mag natuurlijk mij nog steeds aanspreken, maar in de eerste plaats, maak gebruik van [het forum van Website Productie 2](https://cvobrussel.smartschool.be/index.php?module=Forum&file=showforum&function=main&courseID=9365&ssID=1711). Als ik dan een vraag oplos / beantwoord, kunnen je collegacursisten later ook zien hoe hun probleem op te lossen.
