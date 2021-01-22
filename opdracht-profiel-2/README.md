@@ -49,7 +49,7 @@ of
 
 - HTML moet correct zijn en valid; [in de sectie Praktisch Advies leg ik uit hoe je dit kan doen](https://goldflow.github.io/website-productie-2/praktisch-advies/#html-valideren) > ***ANDERS WORDT DIT NIET VERBETERD***
 - Gebruik op zijn minst 2 andere kleuren dan zwart
-- Je gaat gebruik maken van deze repository: `https://github.com/Goldflow/github-voorbeeld.git` > Als je hier nog geen toegang tot hebt, contacteer mij direct.
+- Je gaat gebruik maken van deze repository: `https://github.com/Goldflow/github-voorbeeld.git` > Als je hier nog geen toegang tot hebt, contacteer mij direct. Om toegang te verkrijgen moet je je Github Profiel met mij delen en pas daarna kan ik je uitnodigen om rechten te krijgen op deze repository.
 - Je mag enkel bestanden plaatsen in de map met jouw naam.
 - Je past bestanden van andere studenten of van mij niet aan (ik zal dit kunnen zien :) )
 - Zorg dat alle gebruikte afbeeldingen, video & audio bestanden ook in je opdracht zitten wanneer je die indient.

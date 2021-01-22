@@ -127,11 +127,13 @@ Hier leg ik uit hoe je de repository kan terugvinden in je systeem vanuit Source
 
 #### Hoe je een verandering maakt op je repository
 
-Hier leg ik uit hoe je veranderingen kan maken in je repository
+Hier leg ik uit hoe je veranderingen kan maken in je repository.
 
 <video width="600" controls>
 <source src="first-commit.mkv">
 </video>
+
+**BELANGRIJK** Als je in een repository werkt met meerdere personen, is het ZEER belangrijk dat je eerst op "PULL" drukt voor je je commit gaat pushen!
 
 ---
 
