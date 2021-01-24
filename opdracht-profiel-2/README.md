@@ -56,8 +56,8 @@ of
 - Naam van je `.html` bestand MOET `index.html` zijn!
 
 ## Indienen
-
-- .zip / .rar bestand van het profiel in de Uploadzone, met alle bijhorende bestanden (foto's, audio, video)
+- zoals hier reeds boven beschreven, is het ook een deel van de opdracht, dat je hier niet zelf een Github repository maakt, maar dat je je verbeterde Profiel indient in de [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld) repository
+- .zip / .rar bestand van het profiel in de Uploadzone, met alle bijhorende bestanden (foto's, audio, video), ik verwacht dat dit dezelfde bestanden zijn die je hebt upgeload in mijn repository [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld)
 - ik zal zelf kunnen zien of de link werkt als je alles goed hebt gedaan
 
 ## Vragen / Problemen
