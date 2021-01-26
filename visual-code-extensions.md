@@ -5,6 +5,21 @@
 Je kan Visual Studio Code hier installeren:
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
+## Visual Code instellingen
+
+Om efficiënter te werken in VS Code kan bepaalde instellingen aan te passen.
+
+Zodat je niet telkens zelf moet opslaan, kan je gewoon "Auto Save" aanzetten :) 
+
+![auto save](les_02/auto-save.PNG)
+
+## Visual Code snelkoppelingen
+
+Om vlotter in VS Code is het goed om snelkoppelingen te gebruiken.
+
+Opslaan / Save:  `ctrl`+`s`
+
+
 ## Visual Code Extensions
 
 Visual Studio Code is in principe een soort van tekstverwerker, maar die heeft allerhande uitbreidingen, die ook wel "plugins" of  "extensions" worden genoemd die de applicatie tot een meer volwaardige tool maken.
