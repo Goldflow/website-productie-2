@@ -1,6 +1,6 @@
 # OPDRACHT: Portfolio op GitHub plaatsen via Netlify
 
-Leerdoelen:
+## Leerdoelen:
 
 - software & tools leren gebruiken
   - VS Code
@@ -9,7 +9,12 @@ Leerdoelen:
   - Git Client
 - HTML herhaling
 - CSS herhaling
+## Vooraleer je aan deze opdracht begint:
 
+- Je hebt een GitHub account
+- VS Code is geïnstalleerd met alle plugins ([zie hier voor meer info](../visual-code-extensions.md))
+- Je hebt de [lessen van Website Productie 1](https://goldflow.github.io/website-productie/#overzicht-lessen) herhaald als je denkt dat je veel bent vergeten
+- Je hebt op zijn minst [Les 1 van Website Productie 2](https://goldflow.github.io/website-productie-2/les_01/) doorgenomen en alle oefeningen tot een goed einde gebracht
 ## Omschrijving
 
 We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieuwe zaken aan te leren. We gaan onze Portfolio op Github plaatsen en die dan online zetten via Netlify. We zorgen ook dat de portfolio volledig valid is volgens de W3 regels.

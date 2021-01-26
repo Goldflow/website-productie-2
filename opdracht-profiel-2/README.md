@@ -1,6 +1,6 @@
 # Opdracht: Profiel 2.0
 
-Leerdoelen:
+## Leerdoelen:
 
 - software leren gebruiken
   - VS Code
@@ -9,6 +9,13 @@ Leerdoelen:
 - HTML herhaling
 - CSS herhaling
 
+## Vooraleer je aan deze opdracht begint:
+- Je hebt een GitHub account
+- VS Code is geïnstalleerd met alle plugins ([zie hier voor meer info](../visual-code-extensions.md))
+- Je hebt de [lessen van Website Productie 1](https://goldflow.github.io/website-productie/#overzicht-lessen) herhaald als je denkt dat je veel bent vergeten
+- Je hebt op zijn minst [Les 1 van Website Productie 2](https://goldflow.github.io/website-productie-2/les_01/) doorgenomen en alle oefeningen tot een goed einde gebracht
+- Je hebt je GitHub account doorgegeven aan mij
+- Je hebt de uitnodiging om deel te nemen aan het project `github-voorbeeld` aanvaard. Dit is een mail in je mailbox :)
 ## Omschrijving
 
 Je mag als basis gerust je Profiel nemen van Website Productie 1, maar je zal hier sowieso nog aanpassingen aan moeten doen. Tip: om zo weinig mogelijk fouten te moeten verbeteren, hoe het zo minimaal mogelijk (weliswaar moet je voldoen aan alle vereisten).
