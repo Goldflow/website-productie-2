@@ -61,6 +61,7 @@ of
 - Je past bestanden van andere studenten of van mij niet aan (ik zal dit kunnen zien :) )
 - Zorg dat alle gebruikte afbeeldingen, video & audio bestanden ook in je opdracht zitten wanneer je die indient.
 - Naam van je `.html` bestand MOET `index.html` zijn!
+- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML)
 
 ## Indienen
 - zoals hier reeds boven beschreven, is het ook een deel van de opdracht, dat je hier niet zelf een Github repository maakt, maar dat je je verbeterde Profiel indient in de [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld) repository

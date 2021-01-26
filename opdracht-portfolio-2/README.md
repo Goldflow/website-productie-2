@@ -28,6 +28,7 @@ We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieu
 - Alle tekst moet duidelijk leesbaar zijn qua contrast (geen donkergrijs op zwart, of blauw of paars)
 - Tekst moet in verhouding zijn met belangrijkheid. Dus het kan niet zijn dat je een menu hebt waarvan de lettergrote kleiner is dan je email adres.
 - Navigatie moet een achtergrondkleur krijgen wanneer je erovergaat met je muist ([zie hier hoe dit te doen](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover))
+
 ## Technische Vereisten
 
 - foto's / afbeeldingen hou je op gepaste grootte / resolutie (de gebruiker moet niet scrollen om de pagina te zien). Geen afbeeldingen die groter zijn dan een halve MB (500kb) - als je de originele afbeelding erop wil zetten kan je dat doen als een link / href.
@@ -39,7 +40,7 @@ We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieu
 - pas de stijl aan van de `<a>` elementen zodat bij mouse-over of wanneer er geklikt wordt, het niet de standaard stijl heeft; [zie hier hoe dit te doen](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 - maak gebruik van een CSS animatie. [Je kan hier vinden hoe je dit doet](https://www.w3schools.com/css/css3_animations.asp). Je mag gerust je daaruit laten inspireren maar kopïeer het niet letterlijk, zal dit controleren. Verander op zijn minst de kleur, snelheid of richting, liefst allemaal. Extra inspiratie kan je vinden [op Codepen](https://codepen.io/tag/css-animation)
 - Je zet de website online via Github door gebruik te maken van Netlify. Je kan in [Les 1 terugvinden hoe dit doet (hier klikken)](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen)
-
+- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML)
 ## Indienen
 
 - .zip / .rar bestand van je verbeterde portfolio in de Uploadzone
