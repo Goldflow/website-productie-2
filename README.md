@@ -7,6 +7,10 @@ Dit is het vervolg op de cursus Website Productie 1
 
 [Les 1](./les_01)
 
+[Les 2](./les_02)
+
+[Les 2 - Zelf Studie](./les_02_selfstudy)
+
 ## Overzicht Opdrachten
 
 [Portfolio 2.0](./opdracht-portfolio-2) tegen woensdag 27/01/2021

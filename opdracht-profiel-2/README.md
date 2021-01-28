@@ -1,6 +1,6 @@
 # Opdracht: Profiel 2.0
 
-## Leerdoelen:
+## Leerdoelen
 
 - software leren gebruiken
   - VS Code
@@ -9,13 +9,19 @@
 - HTML herhaling
 - CSS herhaling
 
-## Vooraleer je aan deze opdracht begint:
-- Je hebt een GitHub account
+## Vooraleer je aan deze opdracht begint
+
+
 - VS Code is geïnstalleerd met alle plugins ([zie hier voor meer info](../visual-code-extensions.md))
 - Je hebt de [lessen van Website Productie 1](https://goldflow.github.io/website-productie/#overzicht-lessen) herhaald als je denkt dat je veel bent vergeten
 - Je hebt op zijn minst [Les 1 van Website Productie 2](https://goldflow.github.io/website-productie-2/les_01/) doorgenomen en alle oefeningen tot een goed einde gebracht
+---
+- Je hebt een GitHub account
 - Je hebt je GitHub account doorgegeven aan mij
-- Je hebt de uitnodiging om deel te nemen aan het project `github-voorbeeld` aanvaard. Dit is een mail in je mailbox :)
+- Je hebt de uitnodiging om deel te nemen aan het project `github-voorbeeld` aanvaard. [de uitnodiging kan je hier vinden](https://github.com/notifications) (in het notifications gedeelte van github) - je hebt hier ook een mail voor ontvangen
+
+![invite](invite.PNG)
+
 ## Omschrijving
 
 Je mag als basis gerust je Profiel nemen van Website Productie 1, maar je zal hier sowieso nog aanpassingen aan moeten doen. Tip: om zo weinig mogelijk fouten te moeten verbeteren, hoe het zo minimaal mogelijk (weliswaar moet je voldoen aan alle vereisten).
@@ -64,9 +70,14 @@ of
 - Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML)
 
 ## Indienen
-- zoals hier reeds boven beschreven, is het ook een deel van de opdracht, dat je hier niet zelf een Github repository maakt, maar dat je je verbeterde Profiel indient in de [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld) repository
+
+- zoals hier reeds boven beschreven, is het ook een deel van de opdracht, dat je hier niet zelf een Github repository maakt, maar dat je je verbeterde Profiel indient in de [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld) repository - dit doe je code te pushen naar die repository. Zoals je reeds deed voor je [Portfolio](../opdracht-portfolio-2) opdracht.
 - .zip / .rar bestand van het profiel in de Uploadzone, met alle bijhorende bestanden (foto's, audio, video), ik verwacht dat dit dezelfde bestanden zijn die je hebt upgeload in mijn repository [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld)
 - ik zal zelf kunnen zien of de link werkt als je alles goed hebt gedaan
+
+## Extra Uitleg
+
+
 
 ## Vragen / Problemen
 
