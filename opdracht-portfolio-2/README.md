@@ -9,6 +9,7 @@
   - Git Client
 - HTML herhaling
 - CSS herhaling
+
 ## Vooraleer je aan deze opdracht begint:
 
 - Je hebt een GitHub account
@@ -41,6 +42,9 @@ We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieu
 - maak gebruik van een CSS animatie. [Je kan hier vinden hoe je dit doet](https://www.w3schools.com/css/css3_animations.asp). Je mag gerust je daaruit laten inspireren maar kopïeer het niet letterlijk, zal dit controleren. Verander op zijn minst de kleur, snelheid of richting, liefst allemaal. Extra inspiratie kan je vinden [op Codepen](https://codepen.io/tag/css-animation)
 - Je zet de website online via Github door gebruik te maken van Netlify. Je kan in [Les 1 terugvinden hoe dit doet (hier klikken)](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen)
 - Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML)
+
+![ ](html-not-valid.png)
+
 ## Indienen
 
 - .zip / .rar bestand van je verbeterde portfolio in de Uploadzone

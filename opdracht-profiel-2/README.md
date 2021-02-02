@@ -75,9 +75,7 @@ of
 - .zip / .rar bestand van het profiel in de Uploadzone, met alle bijhorende bestanden (foto's, audio, video), ik verwacht dat dit dezelfde bestanden zijn die je hebt upgeload in mijn repository [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld)
 - ik zal zelf kunnen zien of de link werkt als je alles goed hebt gedaan
 
-## Extra Uitleg
-
-
+![ ](html-not-valid.png)
 
 ## Vragen / Problemen
 
