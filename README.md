@@ -11,11 +11,15 @@ Dit is het vervolg op de cursus Website Productie 1
 
 [Les 2 - Zelf Studie](./les_02_selfstudy)
 
+[Les 3](./les_03)
+
+[Les 3 - Zelf Studie](./les_03_selfstudy)
+
 ## Overzicht Opdrachten
 
-[Portfolio 2.0](./opdracht-portfolio-2) tegen woensdag 27/01/2021
+[Portfolio 2.0](./opdracht-portfolio-2) tegen vrijdag 05/02/2021
 
-[Profiel 2.0](./opdracht-profiel-2) tegen vrijdag 29/01/2021
+[Profiel 2.0](./opdracht-profiel-2) tegen vrijdag 12/02/2021
 
 ## Praktisch Advies HTML & CSS
 
