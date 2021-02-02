@@ -157,6 +157,11 @@ Je zal hier meer over leren in de cursus van Udacity.
 
     <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> kunt u aangepaste kaarten in uw website insluiten, en andere soortgelijke functies.</font></font>
 
+## Self Study
+
+[Introductie tot Javascript op Udacity](https://classroom.udacity.com/courses/ud803)
+
+Voer les uit tot en met Hoofdstuk 2
 
 ## Wat is een variabele?
 
@@ -165,7 +170,6 @@ Een variabele kan verschillende zaken voorstellen. Een string (stukje tekst), ee
 Er zijn ook zaken die als een formule werken, een functie.
 
 [Les "Wat is een variabel?" op Khan Academy](https://nl.khanacademy.org/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-evaluating-expressions/v/what-is-a-variable)
-
 ## Resources
 
 [https://classroom.udacity.com/courses/ud803](https://classroom.udacity.com/courses/ud803)

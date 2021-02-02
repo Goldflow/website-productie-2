@@ -16,15 +16,16 @@ Deze cursus is overigens ook een repository / online folder die op GitHub staat.
 
 **GitHub** is een online platform waar [software](https://nl.wikipedia.org/wiki/Software "Software") op kan worden geplaatst. GitHub is gebouwd rond het [Git](https://nl.wikipedia.org/wiki/Git_(software) "Git (software)")-[versiebeheersysteem](https://nl.wikipedia.org/wiki/Versiebeheersysteem "Versiebeheersysteem"), waardoor GitHub alle mogelijkheden van [Git](https://nl.wikipedia.org/wiki/Git_(software) "Git (software)") en eigen toevoegingen aanbiedt.
 
-Het beschikt onder ander over [toegangscontrole](https://nl.wikipedia.org/wiki/Toegangscontrole "Toegangscontrole") en verschillende samenwerkingsfuncties, zoals een [issue tracker](https://nl.wikipedia.org/wiki/Issue_tracker "Issue tracker"), een forum voor het aanvragen van functies, takenlijsten en [wiki](https://nl.wikipedia.org/wiki/Wiki "Wiki")'s voor ieder project.<sup id="cite_ref-2" class="reference">[[2]](https://nl.wikipedia.org/wiki/GitHub#cite_note-2)</sup>
+Meer info op de [Wikipedia zelf](https://nl.wikipedia.org/wiki/GitHub).
 
-Op GitHub staat veel [opensourcesoftware](https://nl.wikipedia.org/wiki/Opensourcesoftware "Opensourcesoftware") omdat bij openbare repositories de [broncode](https://nl.wikipedia.org/wiki/Broncode "Broncode") kan worden ingekeken door derden.
+<!--
+#### Waarom gebruiken we GIT
 
-GitHub biedt zowel gratis als betaalde abonnementen. Om privé-projecten te kunnen hosten op GitHub is sinds 8 januari 2019 geen betaald abonnement meer nodig.<sup id="cite_ref-3" class="reference">[[3]](https://nl.wikipedia.org/wiki/GitHub#cite_note-3)</sup>
-
-De mascotte van GitHub is _Octocat_, een [geantropomorfiseerde](https://nl.wikipedia.org/wiki/Antropomorfisme "Antropomorfisme") kat met octopusachtige-ledematen.<sup id="cite_ref-4" class="reference">[[4]](https://nl.wikipedia.org/wiki/GitHub#cite_note-4)</sup>
-
-GitHub is geschreven in _[Ruby on Rails](https://nl.wikipedia.org/wiki/Ruby_on_Rails "Ruby on Rails")_ en [Erlang](https://nl.wikipedia.org/wiki/Erlang_(programmeertaal) "Erlang (programmeertaal)") door Chris Wanstrath, P. J. Hyett en Tom Preston-Werner.
+* het zal je helpen om makkelijker te begrijpen waar je fouten hebt gemaakt
+* het leert je gestructeerder werken
+* je kan makkelijk teruggaan naar vorige versies
+* het is industry-standard
+-->
 
 ### SourceTree
 
@@ -42,7 +43,7 @@ Ik ga er van uit dat de meesten al reeds Visual Studio Code geïnstalleerd hebbe
 
 ### Repository uitleg
 
-Repository = een soort van online map / folder waarin bestanden staan. 
+Repository = een soort van online map / folder waarin bestanden staan.
 
 We kunnen hier op onze eigen computer lokaal een kopie van maken. Eenmaal we veranderingen hebben aangebracht in onze kopie, kunnen we zorgen dat de onze veranderingen worden "gesynct" / gelijkgesteld met die van de online map. Met andere woorden ervoor zorgen dat de online versie en onze lokale versie dezelfde blijven.
 
@@ -63,7 +64,7 @@ Stappen:
 * Open Sourcetree
 * klik op "Tools", dan op het submenu "Options"
 * dan klik je op het tabblad "Authentication"
-* klik op "Add" 
+* klik op "Add"
 * selecteer "Github" en kies "OAuth" (staat normaal gezien als standaard ingesteld)
 * klik op "Connect Account"
 
@@ -137,7 +138,7 @@ Hier leg ik uit hoe je veranderingen kan maken in je repository.
 
 ---
 
-### Hoe site van Github op Netlify te plaatsen:
+### Hoe site van Github op Netlify te plaatsen
 
 Hoe je een website kan online zetten door gebruik te maken van Github & Netlify.
 Eerste stap:
