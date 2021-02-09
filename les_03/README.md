@@ -267,18 +267,3 @@ dog.name
 
 We zullen voorlopig niet meer naar objecten kijken - we zien daar meer over later in de cursus.
 
-### OPDRACHT: oefeningen op variabelen
-
-#### Taak 1
-
-Bij deze taak willen we dat u:
-
-- Declareer een variabele genaamd `myName`.
-Initialiseer `myName` met een geschikte waarde, op een aparte regel (u kunt uw werkelijke naam of iets anders gebruiken).
-- Declareer een variabele die wordt aangeroepen `myAge` en initialiseer deze met een waarde op dezelfde regel.
-- Kopiëer onderstaande code in Visual Studio Code of CodePen en probeer
-
-[Opdracht 1](https://github.com/mdn/learning-area/blob/master/javascript/introduction-to-js-1/tasks/variables/variables1-download.html)
-
-
-[Voer de oefeningen hier uit](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)
