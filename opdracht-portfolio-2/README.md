@@ -1,6 +1,6 @@
 # OPDRACHT: Portfolio op GitHub plaatsen via Netlify
 
-## Leerdoelen:
+## Leerdoelen
 
 - software & tools leren gebruiken
   - VS Code
@@ -30,7 +30,6 @@ Als je niet deelnam aan de vorige module (Website Productie 1) mag je beginnen m
 - Zet ook 1 link naar een HTML opdracht (die werkt)
 - Alle tekst moet duidelijk leesbaar zijn qua contrast (bv. geen donkergrijs op zwart, of blauw op paars)
 - Tekst moet in verhouding zijn met belangrijkheid. Dus het kan niet zijn dat je een menu hebt waarvan de lettergrote kleiner is dan je email adres.
-- Navigatie moet een achtergrondkleur krijgen wanneer je erovergaat met je muist ([zie hier hoe dit te doen](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover))
 
 ## Technische Vereisten
 

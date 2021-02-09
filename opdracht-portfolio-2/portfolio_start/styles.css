@@ -1,0 +1,32 @@
+/** pas de kleuren aan naar eigen smaak, zorg gwn voor contrast & eenduidig thema **/
+body {
+  background-color: bisque;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  text-align: center;
+}
+
+/** onderstaande styling mag gerust verwijderd worden **/
+
+.menu a:visited {
+  color: rgb(116, 29, 29);
+}
+
+ul.menu {
+  display: flex;
+  color: black;
+  justify-content: space-evenly;
+  list-style: none;
+  font-size: 25px;
+  flex-flow: wrap;
+}
+
+hr {
+  border-top: 2px solid rgb(116, 29, 29);
+}
+
+.centreer {
+  display: flex;
+}

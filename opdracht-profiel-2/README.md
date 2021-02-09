@@ -14,7 +14,9 @@
 - VS Code is geïnstalleerd met alle plugins ([zie hier voor meer info](../visual-code-extensions.md))
 - Je hebt de [lessen van Website Productie 1](https://goldflow.github.io/website-productie/#overzicht-lessen) herhaald als je denkt dat je veel bent vergeten
 - Je hebt op zijn minst [Les 1 van Website Productie 2](https://goldflow.github.io/website-productie-2/les_01/) doorgenomen en alle oefeningen tot een goed einde gebracht
+
 ---
+
 - Je hebt een GitHub account
 - Je hebt je GitHub account doorgegeven aan mij
 - Je hebt de uitnodiging om deel te nemen aan het project `github-voorbeeld` aanvaard. [de uitnodiging kan je hier vinden](https://github.com/notifications) (in het notifications gedeelte van github) - je hebt hier ook een mail voor ontvangen
