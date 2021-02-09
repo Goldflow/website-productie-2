@@ -108,6 +108,10 @@ let mijnHond = 'Bobby';
 ```
 Dit is waarschijnlijk wat u meestal zult doen, omdat het sneller is dan de twee acties op twee afzonderlijke regels uitvoeren.
 
+<video width="600" controls>
+<source src="uitleg-declaratie-initialisatie.mkv">
+</video>
+
 ### Het verschil tussen var en let
 
 Op dit punt denk je misschien "waarom hebben we twee sleutelwoorden nodig voor het definiëren van variabelen ?? Waarom hebben var en let ?".
@@ -265,5 +269,16 @@ We zullen voorlopig niet meer naar objecten kijken - we zien daar meer over late
 
 ### OPDRACHT: oefeningen op variabelen
 
-[Voer de oefeningen hier uit](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)
+#### Taak 1
 
+Bij deze taak willen we dat u:
+
+- Declareer een variabele genaamd `myName`.
+Initialiseer `myName` met een geschikte waarde, op een aparte regel (u kunt uw werkelijke naam of iets anders gebruiken).
+- Declareer een variabele die wordt aangeroepen `myAge` en initialiseer deze met een waarde op dezelfde regel.
+- Kopiëer onderstaande code in Visual Studio Code of CodePen en probeer
+
+[Opdracht 1](https://github.com/mdn/learning-area/blob/master/javascript/introduction-to-js-1/tasks/variables/variables1-download.html)
+
+
+[Voer de oefeningen hier uit](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)

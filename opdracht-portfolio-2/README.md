@@ -10,7 +10,7 @@
 - HTML herhaling
 - CSS herhaling
 
-## Vooraleer je aan deze opdracht begint:
+## Vooraleer je aan deze opdracht begint
 
 - Je hebt een GitHub account
 - VS Code is geïnstalleerd met alle plugins ([zie hier voor meer info](../visual-code-extensions.md))
@@ -41,7 +41,7 @@ We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieu
 - pas de stijl aan van de `<a>` elementen zodat bij mouse-over of wanneer er geklikt wordt, het niet de standaard stijl heeft; [zie hier hoe dit te doen](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 - maak gebruik van een CSS animatie. [Je kan hier vinden hoe je dit doet](https://www.w3schools.com/css/css3_animations.asp). Je mag gerust je daaruit laten inspireren maar kopïeer het niet letterlijk, zal dit controleren. Verander op zijn minst de kleur, snelheid of richting, liefst allemaal. Extra inspiratie kan je vinden [op Codepen](https://codepen.io/tag/css-animation)
 - Je zet de website online via Github door gebruik te maken van Netlify. Je kan in [Les 1 terugvinden hoe dit doet (hier klikken)](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen)
-- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML)
+- Plaats je CSS in een extern CSS bestand (dus er mogen geen `<style>` tags staan in je HTML) [zie hier hoe dit te doen](https://goldflow.github.io/website-productie/les_02/#css-toevoegen-aan-ons-document)
 
 ![ ](html-not-valid.png)
 
