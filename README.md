@@ -25,6 +25,8 @@ Dit is het vervolg op de cursus Website Productie 1
 
 [Profiel 2.0](./opdracht-profiel-2) tegen vrijdag 12/02/2021 @ 23h59
 
+[Variabelen](./opdracht-variabelen) tegen vrijdag 26/02/2021 @ 23h59
+
 ## Praktisch Advies HTML & CSS
 
 [Kan je hier vinden](./praktisch-advies)
