@@ -11,7 +11,6 @@
 
 ## Vooraleer je aan deze opdracht begint
 
-
 - VS Code is geïnstalleerd met alle plugins ([zie hier voor meer info](../visual-code-extensions.md))
 - Je hebt de [lessen van Website Productie 1](https://goldflow.github.io/website-productie/#overzicht-lessen) herhaald als je denkt dat je veel bent vergeten
 - Je hebt op zijn minst [Les 1 van Website Productie 2](https://goldflow.github.io/website-productie-2/les_01/) doorgenomen en alle oefeningen tot een goed einde gebracht
@@ -38,12 +37,12 @@ De repository is ook gelinkt aan Netlify dus telkens dat iemand een verandering 
 
 ## Inhoudelijke vereisten
 
+- Wat je favoriete ontbijt is
 - Het mag grappig zijn maar gelieve politiek correct te blijven - geen racisme, sexisme of lachen met minderheidsgroepen
 - Voornaam
 - Profiel foto van jezelf / of iemand of iets dat jou kan representeren
 - op zijn minst 1 video die je leuk vind en graag wil delen met de klas (die kan bekeken worden op je profiel) -> hiervoor gebruik je het `<video>`-element
 - op zijn minst 1 stukje muziek dat je leuk vind of bij jou past, die je graag wil delen met de klas (dat kan beluisterd worden op je profiel) -> hiervoor gebruik je het `<audio>`-element
-- Wat je favoriete ontbijt is
 - Op zijn minst 1 Quote / Wijze raad van iemand / over iets dat je inspireert
 
 > 'Don't believe everything you think. Thoughts are just that - thoughts.' bv.
@@ -67,7 +66,7 @@ of
 - Je past bestanden van andere studenten of van mij niet aan (ik zal dit kunnen zien :) )
 - Zorg dat alle gebruikte afbeeldingen, video & audio bestanden ook in je opdracht zitten wanneer je die indient.
 - Naam van je `.html` bestand MOET `index.html` zijn!
-- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML)
+- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML) [zie hier hoe](https://goldflow.github.io/website-productie/les_02/#css-toevoegen-aan-ons-document)
 
 ## Indienen
 
