@@ -20,13 +20,14 @@
 
 We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieuwe zaken aan te leren. We gaan onze Portfolio op Github plaatsen en die dan online zetten via Netlify. We zorgen ook dat de portfolio volledig valid is volgens de W3 regels.
 
+Als je niet deelnam aan de vorige module (Website Productie 1) mag je beginnen met [dit project als basis](pf_start.zip). Iedereen mag hier uit dingen kopïeren zolang je begrijpt wat je doet.
+
 ## Inhoudelijke vereisten
 
 - Wanneer je op de site komt is het meteen duidelijk dat het een Portfolio is van jou (dus ik verwacht je naam & het woord Portfolio ergens - of een synoniem daarvan)
-- Zet er op zijn minst 1 After Effects opdracht in als video.
-- Zet op zijn minst 3 Photoshop werkjes in die jij zelf hebt gemaakt
+- Zet er op zijn minst 1 After Effects opdracht in als video, bekijkbaar als video & zet op zijn minst 1 Photoshop werk in die jij zelf hebt gemaakt tijdens een van de vorige modules. Heb je niet aan die modules deelgenomen mag je ook ander zelfgemaakt werk tonen. Als je echt niets hebt, contacteer mij om samen te kijken wat hier in de plaats voor kan komen.
 - Zet ook 1 link naar een HTML opdracht (die werkt)
-- Alle tekst moet duidelijk leesbaar zijn qua contrast (geen donkergrijs op zwart, of blauw of paars)
+- Alle tekst moet duidelijk leesbaar zijn qua contrast (bv. geen donkergrijs op zwart, of blauw op paars)
 - Tekst moet in verhouding zijn met belangrijkheid. Dus het kan niet zijn dat je een menu hebt waarvan de lettergrote kleiner is dan je email adres.
 - Navigatie moet een achtergrondkleur krijgen wanneer je erovergaat met je muist ([zie hier hoe dit te doen](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover))
 
@@ -35,8 +36,8 @@ We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieu
 - foto's / afbeeldingen hou je op gepaste grootte / resolutie (de gebruiker moet niet scrollen om de pagina te zien). Geen afbeeldingen die groter zijn dan een halve MB (500kb) - als je de originele afbeelding erop wil zetten kan je dat doen als een link / href.
 - behoud dezelfde pagina's. De mensen die geen Portfolio hebben gemaakt, gelieve mij te contacteren.
 - Alle HTML in alle pagina's moet volledig valid zijn volgens W3 regels. **Anders wordt de website niet verbeterd**; zie sectie [Praktisch Advies](../praktisch-advies)
-- Maak gebruik van Flexbox als je dit nog niet eerder deed
-- Website moet op Github terecht komen
+- Maak gebruik van Flexbox als je dit nog niet eerder deed ([ivm Flexbox: zie hier voor de theorie, oefeningen en voorbeelden waaruit je kan kopiërenmeer over Flexbox](https://goldflow.github.io/website-productie/les_05/#flexbox))
+- Website moet op Github terecht komen ([zie les 1](https://goldflow.github.io/website-productie-2/les_01/))
 - Maak gebruik van padding waar het past > [zie hier voor meer informatie](https://www.w3schools.com/css/css_padding.asp)
 - pas de stijl aan van de `<a>` elementen zodat bij mouse-over of wanneer er geklikt wordt, het niet de standaard stijl heeft; [zie hier hoe dit te doen](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 - maak gebruik van een CSS animatie. [Je kan hier vinden hoe je dit doet](https://www.w3schools.com/css/css3_animations.asp). Je mag gerust je daaruit laten inspireren maar kopïeer het niet letterlijk, zal dit controleren. Verander op zijn minst de kleur, snelheid of richting, liefst allemaal. Extra inspiratie kan je vinden [op Codepen](https://codepen.io/tag/css-animation)
