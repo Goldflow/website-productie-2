@@ -16,6 +16,7 @@
 - VS Code is geïnstalleerd met alle plugins ([zie hier voor meer info](../visual-code-extensions.md))
 - Je hebt de [lessen van Website Productie 1](https://goldflow.github.io/website-productie/#overzicht-lessen) herhaald als je denkt dat je veel bent vergeten
 - Je hebt op zijn minst [Les 1 van Website Productie 2](https://goldflow.github.io/website-productie-2/les_01/) doorgenomen en alle oefeningen tot een goed einde gebracht
+
 ## Omschrijving
 
 We gaan de eindopdracht van Website Productie 1 opnieuw gebruiken om enkele nieuwe zaken aan te leren. We gaan onze Portfolio op Github plaatsen en die dan online zetten via Netlify. We zorgen ook dat de portfolio volledig valid is volgens de W3 regels.
@@ -42,7 +43,7 @@ Als je niet deelnam aan de vorige module (Website Productie 1) mag je beginnen m
 - pas de stijl aan van de `<a>` elementen zodat bij mouse-over of wanneer er geklikt wordt, het niet de standaard stijl heeft; [zie hier hoe dit te doen](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 - maak gebruik van een CSS animatie. [Je kan hier vinden hoe je dit doet](https://www.w3schools.com/css/css3_animations.asp). Je mag gerust je daaruit laten inspireren maar kopïeer het niet letterlijk, zal dit controleren. Verander op zijn minst de kleur, snelheid of richting, liefst allemaal. Extra inspiratie kan je vinden [op Codepen](https://codepen.io/tag/css-animation)
 - Je zet de website online via Github door gebruik te maken van Netlify. Je kan in [Les 1 terugvinden hoe dit doet (hier klikken)](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen)
-- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML)
+- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML) [zie hier hoe](https://goldflow.github.io/website-productie/les_02/#css-toevoegen-aan-ons-document)
 
 ![ ](html-not-valid.png)
 
