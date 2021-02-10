@@ -4,7 +4,7 @@
 
 Neem eerst les 3 door voor je aan deze opdracht begint.
 
-[Download de zip met het begin van de 2 taken hier.](opdracht-variabelen.zip)
+[Download de zip met het begin van de 2 taken hier.](https://github.com/Goldflow/website-productie-2/blob/main/opdracht-variabelen/opdracht-variabelen.zip)
 
 ## Uitleg opdracht
 
