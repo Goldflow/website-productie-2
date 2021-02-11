@@ -58,14 +58,6 @@ Hier leg ik uit hoe je verschillende elementen kan mooi rangschikken / in layout
 Hier leg ik uit hoe je met GitHub desktop je project kan binnen halen en uploaden
 
 <video width="600" controls>
-<source src="hoe-met-github-desktop-push-pull.mkv">
-</video>
-
-### GitHub Desktop - Repository binnehalen
-
-Hier leg ik uit hoe je met GitHub desktop je project kan binnen halen
-
-<video width="600" controls>
 <source src="repository-binnenhalen-github-desktop.mkv">
 </video>
 
