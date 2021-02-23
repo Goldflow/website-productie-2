@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  <style>
+
+  </style>
+</head>
+
+<body>
+  <!-- VERANDER NIETS IN DE BODY TAG-->
+  <canvas id="canvas" width="800" height="600">
+  </canvas>
+</body>
+<script>
+  // 1. maak het aantal bolletjes ook variabel (tussen 50 en 200)
+  // 2. maak de kleur ook random
+
+  let ctx = document.getElementById('canvas').getContext('2d');
+  const WIDTH = 800;
+  const HEIGHT = 600;
+  function random(number) {
+    return Math.round(Math.random() * number)
+  }
+  for (let i = 0; i < 100; i++) {
+    ctx.beginPath();
+    ctx.fillStyle = 'rgba(255,0,0,0.5)';
+    ctx.arc(random(WIDTH), random(HEIGHT), random(50), 0, 2 * Math.PI);
+    ctx.fill();
+  }
+</script>
+
+</html>

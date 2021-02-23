@@ -8,6 +8,6 @@ Belangrijk dat je de lessen hiervoor ook al hebt doorgenomen.
 
 Ik zal hier binnenkort nog een test op geven.
 
-![lesson4.PNG](lesson4.PNG)
+![lesson.PNG](lesson.PNG)
 
 Neem de lessen door tot en met Lesson 4
