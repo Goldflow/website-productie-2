@@ -1,4 +1,4 @@
-# Les 5: Self Study: Functions (functies/methodes)
+# Les 6: Self Study: Arrays/Lijsten (functies/methodes)
 
 ## Uitleg
 
@@ -28,4 +28,4 @@ Ik zal hier binnenkort nog een test op geven.
 
 ![lesson.PNG](lesson.PNG)
 
-Neem de lessen door tot en met Lesson 5
+Neem de lessen door tot en met Lesson 56
