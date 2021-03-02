@@ -13,24 +13,45 @@
   <!-- VERANDER NIETS IN DE BODY TAG-->
   <label for="theme">Select theme: </label>
   <select id="theme">
-    <option value="white">White</option>
-    <option value="black">Black</option>
+    <option value="green">Groen</option>
+    <option value="white">Wit</option>
+    <option value="black">Zwart</option>
+    <option value="yellow">Geel</option>
   </select>
 
   <h1>This is my website</h1>
 </body>
 <script>
+  // deze code gaat de dropdown selecteren
+  // we zoeken het element op met tag 'select'
   const select = document.querySelector('select');
   const html = document.querySelector('html');
   document.body.style.padding = '10px';
 
+  // deze functie gaat de achtergrondkleur updaten en de tekstkleur
   function update(bgColor, textColor) {
     html.style.backgroundColor = bgColor;
     html.style.color = textColor;
   }
 
+  // bij begin van applicatie, eerste optie al uitvoeren
+  update('green', 'white');
+
+
   select.onchange = function () {
-    (select.value === 'black') ? update('black', 'white') : update('white', 'black');
+
+    if (select.value === 'green') {
+     update('green', 'white');
+    } else if (select.value === 'black') {
+      // gaat de functie hierboven aanroepen die achtergrondkleur & tekstkleur verandert
+      // in dit geval zwarte achtergrond & witte letters
+      update('black', 'white');
+    } else if (select.value === 'white') {
+      update('white', 'black');
+    } else if(select.value === 'yellow') {
+      // hier uitvoeren in geval dat de value yellow
+      update('yellow', 'black');
+    }
   }
 </script>
 

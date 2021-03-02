@@ -3,17 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Oefening Javascript</title>
-  <style>
-    p {
-      color: purple;
-      margin: 0.5em 0;
-    }
-
-    * {
-      box-sizing: border-box;
-    }
-  </style>
+  <title>Opdracht Weather</title>
 </head>
 
 <body>
@@ -30,17 +20,24 @@
 </body>
 <script>
   const select = document.querySelector('select');
-  const html = document.querySelector('.output');
-
-  select.onchange = function () {
-    const choice = select.value;
-
-    // ADD SWITCH STATEMENT
-  }
+  // const html = document.querySelector('.output');
+  const html = document.querySelector('body');
 
   function update(bgColor, textColor) {
     html.style.backgroundColor = bgColor;
     html.style.color = textColor;
+  }
+
+  select.onchange = function () {
+    const choice = select.value;
+
+    // ADD SWITCH STATEMENT (dus geen if than else zoals in vorige oefening)
+    // HIERBOVEN NIETS VERANDEREN
+    // je code met switch case komt vanaf hier:
+    
+
+    // tot hier
+    // HIERONDER NIETS VERANDEREN
   }
 </script>
 
