@@ -27,6 +27,10 @@ Dit is het vervolg op de cursus Website Productie 1
 
 [Les 6 - Zelf Studie](./les_06_selfstudy)
 
+[Les 7](./les_07)
+
+[Les 7 - Zelf Studie](./les_07_selfstudy)
+
 ## Overzicht Opdrachten
 
 [Portfolio 2.0](./opdracht-portfolio-2) tegen vrijdag 12/02/2021 @ 23h59
@@ -34,6 +38,12 @@ Dit is het vervolg op de cursus Website Productie 1
 [Profiel 2.0](./opdracht-profiel-2) tegen vrijdag 12/02/2021 @ 23h59
 
 [Variabelen](./opdracht-variabelen) tegen vrijdag 26/02/2021 @ 23h59
+
+[Zwart Wit](./opdracht-zwart-wit) tegen vrijdag 12/03/2021 @ 23h59
+
+[Weather Switch](./opdracht-weather) tegen vrijdag 12/03/2021 @ 23h59
+
+[Random Floor](./opdracht-random-floor) tegen vrijdag 12/03/2021 @ 23h59
 
 ## Praktisch Advies HTML & CSS
 
