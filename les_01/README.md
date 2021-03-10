@@ -164,3 +164,21 @@ Eenmaal je repositories gelinkt zijn aan Netlify, kan je voortgaan met stap 3, j
 <video width="600" controls>
 <source src="choose-repo-and-build.mkv">
 </video>
+
+---
+
+### GitHub Desktop - Fetch, Pull, Push
+
+#### Benodigdheden
+
+Installeer Github Desktop ([download vind je hier](https://desktop.github.com/))
+
+#### Uitleg
+
+In de video hieronder leg ik uit hoe je met GitHub desktop je project kan binnen halen en uploaden.  In het voorbeeld wordt het getoond hoe je het doet met de repository `github-voorbeeld` maar je kan dezelfde stappen perfect doen met je eigen repository.
+
+Bij vragen, aarzel niet om mij te contacteren!
+
+<video width="600" controls>
+<source src="https://goldflow.github.io/website-productie-2/praktisch-advies/repository-binnenhalen-github-desktop.mkv">
+</video>

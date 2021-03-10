@@ -10,7 +10,7 @@
 - HTML herhaling
 - CSS herhaling
 
-## Vooraleer je aan deze opdracht begint:
+## Vooraleer je aan deze opdracht begint
 
 - Je hebt een GitHub account
 - VS Code is geïnstalleerd met alle plugins ([zie hier voor meer info](../visual-code-extensions.md))
@@ -34,7 +34,7 @@ Als je niet deelnam aan de vorige module (Website Productie 1) mag je beginnen m
 ## Technische Vereisten
 
 - foto's / afbeeldingen hou je op gepaste grootte / resolutie (de gebruiker moet niet scrollen om de pagina te zien). Geen afbeeldingen die groter zijn dan een halve MB (500kb) - als je de originele afbeelding erop wil zetten kan je dat doen als een link / href.
-- behoud dezelfde pagina's. De mensen die geen Portfolio hebben gemaakt, gelieve mij te contacteren.
+- behoud dezelfde pagina's (op zijn minst 3 dus zoals ervoor) De mensen die geen Portfolio hebben gemaakt, gelieve mij te contacteren.
 - Alle HTML in alle pagina's moet volledig valid zijn volgens W3 regels. **Anders wordt de website niet verbeterd**; zie sectie [Praktisch Advies](../praktisch-advies)
 - Maak gebruik van Flexbox als je dit nog niet eerder deed ([ivm Flexbox: zie hier voor de theorie, oefeningen en voorbeelden waaruit je kan kopiërenmeer over Flexbox](https://goldflow.github.io/website-productie/les_05/#flexbox))
 - Website moet op Github terecht komen ([zie les 1](https://goldflow.github.io/website-productie-2/les_01/))
@@ -42,13 +42,23 @@ Als je niet deelnam aan de vorige module (Website Productie 1) mag je beginnen m
 - pas de stijl aan van de `<a>` elementen zodat bij mouse-over of wanneer er geklikt wordt, het niet de standaard stijl heeft; [zie hier hoe dit te doen](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 - maak gebruik van een CSS animatie. [Je kan hier vinden hoe je dit doet](https://www.w3schools.com/css/css3_animations.asp). Je mag gerust je daaruit laten inspireren maar kopïeer het niet letterlijk, zal dit controleren. Verander op zijn minst de kleur, snelheid of richting, liefst allemaal. Extra inspiratie kan je vinden [op Codepen](https://codepen.io/tag/css-animation)
 - Je zet de website online via Github door gebruik te maken van Netlify. Je kan in [Les 1 terugvinden hoe dit doet (hier klikken)](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen)
-- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML) [zie hier hoe](https://goldflow.github.io/website-productie/les_02/#css-toevoegen-aan-ons-document)
-
-![ ](html-not-valid.png)
+- Plaats je CSS in een extern CSS bestand (dus er mogen geen `<style>` tags staan in je HTML) [zie hier hoe](https://goldflow.github.io/website-productie/les_02/#css-toevoegen-aan-ons-document)
 
 ## Indienen
 
-- .zip / .rar bestand van je verbeterde portfolio in de Uploadzone
+Zoals beschreven in de technische vereisten is de hoofdbedoeling dat je de website online zet, via Github door gebruik te maken van Netlify.
+
+Dit doe je in de volgende stappen:
+
+1. je maakt een eigen GitHub Repository
+
+2. Je plaatst de website op je eigen GitHub repository. [Hier zie je hoe (als voorbeeld wordt de repository github-voorbeeld gebruikt maar het werkt op exact dezelfde manier voor je eigen repository)](https://goldflow.github.io/website-productie-2/les_01/#github-desktop---fetch-pull-push)
+
+3. Je zet de website online in Netlify via je eigen GitHub Repository. Je kan in [Les 1 terugvinden hoe dit doet (hier klikken)](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen) Na deze stap te vervolledigen zal je ook de link kunnen zien.
+
+Daarnaast moet je ook:
+
+- .zip / .rar bestand van je verbeterde portfolio in de Uploadzone plaatsen
 - als commentaar geef me je de link naar je website
 - geef me ook de **screenshot** van je Netlify pagina zodat ik kan zien dat je het online hebt gezet via Netlify, zie hieronder voor een voorbeeld:
 
