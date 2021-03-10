@@ -68,15 +68,13 @@ of
 - Je past bestanden van andere studenten of van mij niet aan (ik zal dit kunnen zien :) )
 - Zorg dat alle gebruikte afbeeldingen, video & audio bestanden ook in je opdracht zitten wanneer je die indient.
 - Naam van je `.html` bestand MOET `index.html` zijn!
-- Plaats je CSS in een extern CSS bestand (dus er mogen geen <style> tags staan in je HTML) [zie hier hoe](https://goldflow.github.io/website-productie/les_02/#css-toevoegen-aan-ons-document)
+- Plaats je CSS in een extern CSS bestand (dus er mogen geen `<style>` tags staan in je HTML) [zie hier hoe](https://goldflow.github.io/website-productie/les_02/#css-toevoegen-aan-ons-document)
 
 ## Indienen
 
-- zoals hier reeds boven beschreven, is het ook een deel van de opdracht, dat je hier niet zelf een Github repository maakt, maar dat je je verbeterde Profiel indient in de [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld) repository - dit doe je code te pushen naar die repository. Zoals je reeds deed voor je [Portfolio](../opdracht-portfolio-2) opdracht.
+- Zoals hier reeds boven beschreven, is het belangrijkste deel van de opdracht, dat je hier niet zelf een Github repository maakt, maar dat je je verbeterde Profiel indient in de [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld) repository - dit doe je code te pushen naar die repository. Zoals je reeds deed voor je [Portfolio](../opdracht-portfolio-2) opdracht. [Hier zie je hoe mbhv Github Desktop je bestanden van je project in je repository plaatst](https://goldflow.github.io/website-productie-2/les_01/#github-desktop---fetch-pull-push)
 - .zip / .rar bestand van het profiel in de Uploadzone, met alle bijhorende bestanden (foto's, audio, video), ik verwacht dat dit dezelfde bestanden zijn die je hebt upgeload in mijn repository [`github-voorbeeld`](https://github.com/Goldflow/github-voorbeeld)
 - ik zal zelf kunnen zien of de link werkt als je alles goed hebt gedaan
-
-![ ](html-not-valid.png)
 
 ## Vragen / Problemen
 

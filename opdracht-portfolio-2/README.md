@@ -50,11 +50,11 @@ Zoals beschreven in de technische vereisten is de hoofdbedoeling dat je de websi
 
 Dit doe je in de volgende stappen:
 
-1. je maakt een eigen GitHub Repository
+1. Je maakt een eigen GitHub Repository [klik hier hoe repository creatie te doen](https://goldflow.github.io/website-productie-2/les_01/#repository-creatie)
 
-2. Je plaatst de website op je eigen GitHub repository. [Hier zie je hoe (als voorbeeld wordt de repository github-voorbeeld gebruikt maar het werkt op exact dezelfde manier voor je eigen repository)](https://goldflow.github.io/website-productie-2/les_01/#github-desktop---fetch-pull-push)
+2. Je plaatst de bestanden van je website op je eigen GitHub repository - zoals in Les 1 gezien is je repository dus gewoon een soort van online map / foldeR. [Hier zie je hoe mbhv Github Desktop je bestanden van je project in je repository plaatst](https://goldflow.github.io/website-productie-2/les_01/#github-desktop---fetch-pull-push) (als voorbeeld wordt de repository github-voorbeeld gebruikt maar het werkt op exact dezelfde manier voor je eigen repository)
 
-3. Je zet de website online in Netlify via je eigen GitHub Repository. Je kan in [Les 1 terugvinden hoe dit doet (hier klikken)](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen) Na deze stap te vervolledigen zal je ook de link kunnen zien.
+3. Je zet de portfolio online door gebruik te maken van Netlify en door Netlify de inhoud van je Github Repository te laten lezen. Hoe je dit doet kan je terugvinden hier: [Klik hier om te zien hoe je een site die op Github staat online zet via Netlify](https://goldflow.github.io/website-productie-2/les_01/#hoe-site-van-github-op-netlify-te-plaatsen) Na deze stap te vervolledigen zal je ook de link kunnen zien.
 
 Daarnaast moet je ook:
 
