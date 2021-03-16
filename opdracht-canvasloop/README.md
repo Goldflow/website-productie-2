@@ -2,15 +2,15 @@
 
 ## Benodigdheden
 
-Neem eerst les 4 door voor je aan deze opdracht begint.
+Neem eerst tot en met les 5 door voor je aan deze opdracht begint.
 
 [Download de zip waarmee je de opdracht moet beginnen hier.](https://github.com/Goldflow/website-productie-2/raw/main/opdracht-canvasloop/canvasloop.zip)
 
 ## Omschrijving
 
-1. herhaal onderstaande code 100 keer of meer
+1. Teken de cirkel meer dan 100 keer (tip), door de functie `createCircle()` in de juiste plaats te zetten. Je mag die slechts op 1 plaats oproepen maar die moet dus meer dan 100 keer uitvoeren. Tip: `hoeveelKeerLoopen`
 
-2. zorg dat kleur willekeurig is (tussen de eerste 3 parameters voor de makeRGBA 
+2. Zorg dat de kleur van elke cirkel willekeurig is. Er moeten dus 3 random waardes komen die je meegeeft als parameters in de `makeRGBA()` functie
 
 ## Uitleg opdracht
 
