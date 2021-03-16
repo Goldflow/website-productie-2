@@ -45,6 +45,8 @@ Dit is het vervolg op de cursus Website Productie 1
 
 [Random Floor](./opdracht-random-floor) tegen vrijdag 12/03/2021 @ 23h59
 
+[Canvas Loop](./opdracht-canvasloop) tegen  16/03/2021 @ 23h59
+
 ## Praktisch Advies HTML & CSS
 
 [Kan je hier vinden](./praktisch-advies)
