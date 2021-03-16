@@ -17,7 +17,7 @@ Neem eerst les 4 door voor je aan deze opdracht begint.
 Kijk video om de bedoeling van de opdracht te begrijpen.
 
 <video width="600" controls>
-<source src="opdracht-canvasloop.mkv">
+<source src="canvas-loop-oefening.mkv">
 </video>
 
 ## Indienen
