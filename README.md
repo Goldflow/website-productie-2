@@ -33,19 +33,17 @@ Dit is het vervolg op de cursus Website Productie 1
 
 ## Overzicht Opdrachten
 
-[Portfolio 2.0](./opdracht-portfolio-2) tegen vrijdag 12/02/2021 @ 23h59
+[Variabelen](./opdracht-variabelen) 
 
-[Profiel 2.0](./opdracht-profiel-2) tegen vrijdag 12/02/2021 @ 23h59
+[Weather Switch](./opdracht-weather) 
 
-[Variabelen](./opdracht-variabelen) tegen vrijdag 26/02/2021 @ 23h59
+[Random Floor](./opdracht-random-floor) 
 
-[Zwart Wit](./opdracht-zwart-wit) tegen vrijdag 12/03/2021 @ 23h59
+[Canvas Loop](./opdracht-canvasloop) 
 
-[Weather Switch](./opdracht-weather) tegen vrijdag 12/03/2021 @ 23h59
+[Portfolio](./opdracht-portfolio-2) 
 
-[Random Floor](./opdracht-random-floor) tegen vrijdag 12/03/2021 @ 23h59
-
-[Canvas Loop](./opdracht-canvasloop) tegen  16/03/2021 @ 23h59
+[Profiel 2.0](./opdracht-profiel-2) 
 
 ## Praktisch Advies HTML & CSS
 
@@ -63,6 +61,6 @@ Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel 
 [https://codepen.io/](https://codepen.io/)
 
 ## Resources
-
+- [https://www.studieanker.be](https://www.studieanker.be)
 - [https://www.edx.org/school/w3cx](https://www.edx.org/school/w3cx)
 - [https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML)
