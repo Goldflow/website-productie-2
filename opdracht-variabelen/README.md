@@ -17,12 +17,11 @@ Neem eerst les 3 door voor je aan deze opdracht begint.
 Deze opdracht bestaat uit twee verschillende taken.
 
 ### Opzet oefeningen
+- Kopieer het bestand in je web-2-taken folder
+- doe rechterklik > 7zip > extract here (of "hier uitpakken)
 - Ga naar Github Desktop
 - Open Web2taken repository
 - Klik op "Open in Visual Studio Code"
-- Maak een nieuwe map genaamd `variabelen`
-- kopïeer het bestand [`_index.html`](_index.html) 
-- hernoem `_index.html` naar `index.html` (dus zonder underscore)
 
 Voor de volgende taken ga je telkens ook de html bestanden downloaden en plaatsen in je map `variabelen`.
 
