@@ -36,8 +36,14 @@ Initialiseer `myName` met een geschikte waarde, op een aparte regel (u kunt uw w
 
 ### Taak 2
 
-
 Bij deze taak moet u een nieuwe regel toevoegen om de waarde die is opgeslagen in de bestaande `myName` variabele naar uw eigen naam te corrigeren .
+
+Belangrijk, laat volgende code staan;
+
+    let myName = 'Paul';
+
+Je mag enkel een nieuwe lijn toevoegen;
+Verander ook niets van de code onder 2 groene commentaar.
 
 Kopiëer html van oefening [`taak-variabelen-2.html`](taak-variabelen-2.html) in Visual Studio Code of CodePen en probeer bovenstaande uit te voeren.
 
