@@ -26,9 +26,13 @@ Op W3 schools
 
 Klik zeker eens op "Try it out!" en probeer eens te spelen met de code.
 
-## Uitleg opdracht
+## Start opdracht
+- Download de oefening .zip bestand & plaats die in "web-2-taken" folder
+- rechterklik op het bestand
+- kies 7zip > dan extract here
+Plaats de map in je web-2-taken folder.
 
-Download de oefening en open hem. Je moet op F12 drukken en dan op console om het resultaat te kunnen zien.
+## Uitleg opdracht
 
 In de oefening:
 
@@ -71,10 +75,13 @@ Wat je nu moet doen is gewoon hetzelfde doen maar een willekeurig getal tussen 2
 1. een willekeurig getal uitprinten die tussen 0 en 255 is > gebruik Math.random()
 2. en dan van dat getal, alle cijfers na de komma wegdoen > gebruik Math.floor()
 
-## Indienen
-
-Dien afgewerkte HTML in bij relevante Uploadzone.
-
 ## Vragen / Opmerkingen
 
 Laat me zeker weten of er iets niet duidelijk is of vragen hebt / vast zit.
+
+## Indienen
+
+- Maak een zip van de map & dien in bij relevante Uploadzone
+- Oefening uploaden in je GitHub repository
+- Link maken op de index pagina van Web2taken repository
+- Controleer dat de link werkt

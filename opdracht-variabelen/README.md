@@ -16,6 +16,15 @@ Neem eerst les 3 door voor je aan deze opdracht begint.
 
 Deze opdracht bestaat uit twee verschillende taken.
 
+### Opzet oefeningen
+- Ga naar Github Desktop
+- Open Web2taken repository
+- Klik op "Open in Visual Studio Code"
+- Maak een nieuwe map genaamd `variabelen`
+- kopïeer het bestand [`_index.html`](_index.html) 
+- hernoem `_index.html` naar `index.html` (dus zonder underscore)
+
+Voor de volgende taken ga je telkens ook de html bestanden downloaden en plaatsen in je map `variabelen`.
 
 ### Taak 1
 
@@ -35,4 +44,13 @@ Kopiëer html van oefening [`taak-variabelen-2.html`](taak-variabelen-2.html) in
 
 ## Indienen
 
-Dien afgewerkte HTML in bij relevante Uploadzone.
+- Maak een zip van de map & dien in bij relevante Uploadzone
+- Oefening uploaden in je GitHub repository
+- Link maken op de index pagina van Web2taken repository
+- Controleer dat de link werkt
+
+## Extra Informatie voor deze opdracht
+
+- [Lijst van enkele tutorials](./praktisch-advies) (onder andere hoe zip in te dienen)
+- Link naar les over variabelen [Les 3](https://goldflow.github.io/website-productie-2/les_03/)
+- Link naar 2e bron over variabelen [Studie Anker - Variabelen](https://www.studieanker.be/js/003-variabelen.html) 
