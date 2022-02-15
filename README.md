@@ -64,3 +64,11 @@ Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel 
 - [https://www.studieanker.be](https://www.studieanker.be)
 - [https://www.edx.org/school/w3cx](https://www.edx.org/school/w3cx)
 - [https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML)
+
+
+## Educative.io
+
+We gaan in deze cursus ook enkele oefeningen maken in Educative.io
+
+- log in met je GitHub Account
+- een assessment waar we mee gaan beginnen is deze: [https://www.educative.io/courses/assess-your-javascript-skills](https://www.educative.io/courses/assess-your-javascript-skills)
