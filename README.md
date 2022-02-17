@@ -35,9 +35,11 @@ Dit is het vervolg op de cursus Website Productie 1
 
 [Variabelen](./opdracht-variabelen) 
 
-[Weather Switch](./opdracht-weather) 
-
 [Random Floor](./opdracht-random-floor) 
+
+[Zwart Wit](./opdracht-zwart-wit) 
+
+[Weather Switch](./opdracht-weather) 
 
 [Canvas Loop](./opdracht-canvasloop) 
 
