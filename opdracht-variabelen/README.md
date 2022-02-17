@@ -18,7 +18,7 @@ Deze opdracht bestaat uit twee verschillende taken.
 
 ### Opzet oefeningen
 - Kopieer het bestand in je web-2-taken folder
-- doe rechterklik > 7zip > extract here (of "hier uitpakken)
+- doe rechterklik > 7zip > extract here (of "hier uitpakken" voor WinRAR)
 - Ga naar Github Desktop
 - Open Web2taken repository
 - Klik op "Open in Visual Studio Code"
