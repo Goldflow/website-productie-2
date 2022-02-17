@@ -33,3 +33,5 @@ Gelijkaardig aan de Zwart-Wit oefening, gaan we opnieuw de achtergrond verandere
 - Bewerkingen uitvoeren: [https://www.studieanker.be/js/004-bewerkingen.html#bewerkingen-uitvoeren](https://www.studieanker.be/js/004-bewerkingen.html#bewerkingen-uitvoeren)
 - Condities & Controles: [uitleg switch statement](https://www.studieanker.be/js/005-condities.html#controlestructuur-switch-statement)
 - Link naar 2e bron over functies [Studie Anker - functies](https://www.studieanker.be/js/008-functies.html) 
+
+![](switch-case-voorbeeld.PNG)

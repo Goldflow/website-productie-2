@@ -9,6 +9,7 @@ const select = document.querySelector('select');
 
   select.onchange = function () {
     const choice = select.value;
+    console.log('gekozen optie', choice);
 
     // ADD SWITCH STATEMENT
     // HIERBOVEN NIETS VERANDEREN

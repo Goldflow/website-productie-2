@@ -14,7 +14,12 @@ const select = document.querySelector('select');
       } else if (select.value === 'white') {
         updateBackgroundAndTextColor('white', 'black');
       }
+      if (select.value === 'blue') {
+        updateBackgroundAndTextColor('black', 'blue');
+      }
     // NIETS VERANDEREN AAN CODE HIERBOVEN
     // voeg hier code toe, zodat afhankelijk van de waarde, de kleur word aangepast
 
-  }
+    }
+
+  
