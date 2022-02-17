@@ -6,20 +6,20 @@ Neem eerst lessen door in verband met condities & functies voor je aan de opdrac
 
 [Download de zip waarmee je de opdracht moet beginnen hier.](https://github.com/Goldflow/website-productie-2/raw/main/opdracht-zwart-wit/zwart-wit.zip)
 
-## Uitleg video
-
-<video width="600" controls>
-<source src="opdracht-zwart-wit.mkv">
-</video>
-
-### Opzet oefeningen
+## Opzet oefeningen
 - Kopieer het bestand in je web-2-taken folder
 - doe rechterklik > 7zip > extract here (of "hier uitpakken" voor WinRAR)
 - Ga naar Github Desktop
 - Open Web2taken repository
 - Klik op "Open in Visual Studio Code"
 
-Voor de volgende taken ga je telkens ook de html bestanden downloaden en plaatsen in je map `variabelen`.
+Voor de volgende taken ga je telkens ook de html bestanden downloaden en plaatsen in je map `zwart-wit`.
+
+## Uitleg video
+
+<video width="600" controls>
+<source src="opdracht-zwart-wit.mkv">
+</video>
 
 ## Uitleg opdracht
 

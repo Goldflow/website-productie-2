@@ -2,7 +2,7 @@ const select = document.querySelector('select');
   // const html = document.querySelector('.output');
   const html = document.querySelector('body');
 
-  function update(bgColor, textColor) {
+  function updateBgTextColor(bgColor, textColor) {
     html.style.backgroundColor = bgColor;
     html.style.color = textColor;
   }
