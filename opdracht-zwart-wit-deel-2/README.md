@@ -4,6 +4,7 @@
 
 Vervolledig eerst opdracht Zwart Wit voor je aan deze opdracht begint [Opdracht Zwart Wit](https://goldflow.github.io/website-productie-2/opdracht-zwart-wit)
 
+[Download de zip waarmee je de opdracht moet beginnen hier.](https://github.com/Goldflow/website-productie-2/raw/main/opdracht-zwart-wit-deel-2/zwart-wit-deel-2.zip)
 
 ## Opzet oefeningen
 - Kopieer het bestand in je web-2-taken folder
