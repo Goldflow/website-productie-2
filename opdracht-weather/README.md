@@ -13,13 +13,7 @@ Neem eerst les 4 door voor je aan deze opdracht begint en doe opdracht Zwart-Wit
 - Open Web2taken repository
 - Klik op "Open in Visual Studio Code"
 
-Voor de volgende taken ga je telkens ook de html bestanden downloaden en plaatsen in je map `zwart-wit`.
-
-## Uitleg opdracht
-
-<video width="600" controls>
-<source src="opdracht.mkv">
-</video>
+Voor de volgende taken ga je telkens ook de html bestanden downloaden en plaatsen in je map `weather`.
 
 ## Uitleg opdracht
 
