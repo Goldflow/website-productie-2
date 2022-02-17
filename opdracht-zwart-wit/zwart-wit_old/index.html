@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Zwart-Wit</title>
+  <style>
+
+  </style>
+</head>
+
+<body>
+  
+  <label for="theme">Select theme: </label>
+  <select id="theme">
+    <!-- VOEG HIER KLEUREN TOE -->
+    <option value="white">White</option>
+    <option value="black">Zwart</option>
+  </select>
+
+  <h1>This is my website</h1>
+</body>
+<script>
+  const select = document.querySelector('select');
+  const html = document.querySelector('html');
+  document.body.style.padding = '10px';
+
+  function update(bgColor, textColor) {
+    html.style.backgroundColor = bgColor;
+    html.style.color = textColor;
+  }
+
+  select.onchange = function () {
+    if (select.value === 'black') {
+      update('black', 'white');
+      
+    } 
+    
+    else if (select.value === 'white') {
+      update('white', 'black');
+    }
+    // Kopiëer de 3 lijnen hierboven en zorg dat de value overeenkomt
+    // met de values die je hebt toegevoegd bij de <select> tag
+  }
+</script>
+
+</html>

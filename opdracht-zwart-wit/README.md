@@ -2,7 +2,7 @@
 
 ## Benodigdheden
 
-Neem eerst les 4 door voor je aan deze opdracht begint.
+Neem eerst lessen door in verband met condities & functies voor je aan de opdracht begint.
 
 [Download de zip waarmee je de opdracht moet beginnen hier.](https://github.com/Goldflow/website-productie-2/raw/main/opdracht-zwart-wit/zwart-wit.zip)
 
