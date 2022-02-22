@@ -1,4 +1,4 @@
-# OPDRACHT: Zwart-Wit + 2 kleuren
+# OPDRACHT: Zwart-Wit + 2 kleuren [DEEL 2]
 
 ## Benodigdheden
 
