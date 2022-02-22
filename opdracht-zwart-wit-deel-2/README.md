@@ -29,6 +29,8 @@ Wat er verandert is in deze opdracht;
 
 ## Extra uitdaging
 
+- verwijder alle `if` en `else`
+- zorg dat je `updateTextColor` & `updateBackgroundColor` maar 1 keer gebruikt
 
 ## Indienen
 
