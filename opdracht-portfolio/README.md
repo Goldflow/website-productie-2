@@ -9,7 +9,7 @@ Voor deze oefening gaan we onze eigen portfolio maken. Het idee is dat dit kan d
 ### Structuur project
 
 Ook belangrijk dat hoofdpagina de naam `index.html` heeft.
-[Download de zip waarmee je de opdracht moet beginnen hier.](https://github.com/Goldflow/website-productie-2/raw/main/opdracht-weather/weather.zip)
+[Download de zip waarmee je de opdracht moet beginnen hier.](https://github.com/Goldflow/website-productie-2/raw/main/opdracht-portfolio/portfolio_start.zip)
 
 ## Opzet oefeningen
 Je kan beginnen van een bestaand project, [kan je hier een voorbeeld project downloaden](https://github.com/Goldflow/website-productie-2/raw/main/opdracht-portfolio/portfolio_start.zip). Zorg echter wel dat je de kleuren aanpast en op elke pagina zowel in title je naam vermeld staat.
