@@ -68,6 +68,8 @@ EXTRA punten voor mooi design / zelfgemaakte afbeeldingen te gebruiken in Photos
 
 ## Vragen / Problemen
 
+Bekijk ook zeker deze cursus & de pagina [https://www.studieanker.be/html/](https://www.studieanker.be/html/) voor meer info.
+
 Het is de bedoeling dat vanaf deze module iedereen ook gebruik maakt van het forum van Website Productie 2, om zowel dingen te delen als vragen te stellen, en dat de studenten elkaar dan kunnen helpen.
 
 Je mag natuurlijk mij nog steeds aanspreken, maar in de eerste plaats, maak gebruik van het forum van Website Productie 2. Als ik dan een vraag oplos / beantwoord, kunnen je collegacursisten later ook zien hoe hun probleem op te lossen.
