@@ -4,6 +4,10 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1 {
+  text-align: center;
+}
+
 p {
   text-align: center;
 }
@@ -12,6 +16,7 @@ p {
 
 .menu a:visited {
   color: rgb(116, 29, 29);
+  background-color: inherit;
 }
 
 ul.menu {

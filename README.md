@@ -41,7 +41,7 @@ Dit is het vervolg op de cursus Website Productie 1
 
 [Weather Switch](./opdracht-weather) 
 
-[Portfolio](./opdracht-portfolio-2) 
+[Portfolio](./opdracht-portfolio) 
 
 [Canvas Loop](./opdracht-canvasloop) 
 
