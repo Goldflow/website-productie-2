@@ -41,11 +41,9 @@ Dit is het vervolg op de cursus Website Productie 1
 
 [Weather Switch](./opdracht-weather) 
 
-[Canvas Loop](./opdracht-canvasloop) 
-
 [Portfolio](./opdracht-portfolio-2) 
 
-[Profiel 2.0](./opdracht-profiel-2) 
+[Canvas Loop](./opdracht-canvasloop) 
 
 ## Praktisch Advies HTML & CSS
 
