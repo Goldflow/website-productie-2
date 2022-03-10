@@ -30,7 +30,7 @@ Voorbeeld van een structuur & inhoud (zelfde als in start project)
 * web.html > hierop link je beste, werkende opdrachten van website productie 1 en 2 (op zijn minst 4)
 * img.html > hierop link je beste, werkende opdrachten van digitale beeldverwerking / illustrator (op zijn minst 4)
 * anim.html > hierop link je beste opdrachten waar je video's / animaties hebt gemaakt (zorg dat geen enkele video groter is dan 50 MB)
-* social.html > plaats waar geïnteresseerden meer informatie krijgen hoe ze je kunnen contacteren (facebook, linkedin, instagram, email adres)
+* social.html > plaats waar geïnteresseerden meer informatie krijgen hoe ze je kunnen contacteren (facebook, linkedin, instagram, email adres -> zet op zijn minst je LinkedIn hierop)
 
 - Zorg dat je 1 CSS bestand gebruikt voor al je pagina's.
 
