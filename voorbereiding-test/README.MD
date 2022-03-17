@@ -83,7 +83,40 @@ Hoe kan je weten welke regel code zal uitgevoerd worden afhankelijk van de condi
 
 ---
 
-probeer code in dit hoofdstuk eens uit in console:
+Probeer code in dit hoofdstuk eens uit in console;
+
+dus copypaste deze code;
+
+voor je op enter drukt, probeer te raden wat de boodschappen zullen zijn die je uitprint
+
+- kopïeer code opnieuw en verander vervolgens eens leeftijd naar +18 (bv 20)
+- kopïeer code opnieuw en verander dan ook eens heeftBetaald naar true
+
+en probeer telkens te raden welke boodschappen worden uitgeprint
+
+Ter voorbereiding van de opdracht is het belangrijk dat je dit correct kan raden.
+
+Voorbeeld in Kahoot zal eenvoudiger zijn.
+
+```JavaScript
+const leeftijd = 15;
+const heeftBetaald = false;
+
+if (heeftBetaald) {
+    console.log("Welkom bij de club!");
+    if (leeftijd > 18) {
+        console.log("Wil je een biertje?");
+    }
+    else {
+        console.log("Wil je een cola'tje?")
+    }
+} else {
+    console.log("Gelieve eerst te betalen!");
+    if (leeftijd < 18) {
+        console.log("Je krijgt korting vanwege je leeftijd.");
+    }
+}
+```
 
 [https://www.studieanker.be/js/005-condities.html#nesten-van-if-statements](https://www.studieanker.be/js/005-condities.html#nesten-van-if-statements)
 
