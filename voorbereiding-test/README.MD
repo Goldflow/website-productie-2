@@ -145,7 +145,8 @@ console.log(getal);
 
 ---
 
-Wat is het resultaat van dit:
+Wat is het resultaat van elke waarde?
+(vervang de string bij console.log door de waarde, bv `waarde1`)
 
 ```JavaScript
 let waarde1 = true || false;
