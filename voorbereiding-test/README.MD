@@ -18,13 +18,20 @@ Waarvoor dient JavaScript?
 Antwoorden vind je hier:
 [https://www.studieanker.be/js/001-inleiding.html#wat-is-javascript](https://www.studieanker.be/js/001-inleiding.html#wat-is-javascript)
 
+---
 
 Welke knop moet je drukken in de browser om de console te openen?
+
 [https://www.studieanker.be/js/002-opdrachten.html#javascript-console](https://www.studieanker.be/js/002-opdrachten.html#javascript-console)
 
-Wat geldige variabele namen zijn in JavaScript.
+---
+
+Wat geldige variabele namen zijn in JavaScript. Met wat mag een variabele naam zeker NIET beginnen?
+
 [https://www.studieanker.be/js/003-variabelen.html#variabelenaam](https://www.studieanker.be/js/003-variabelen.html#variabelenaam
 )
+
+---
 
 Verschil tussen `0` en `null`?
 
@@ -37,10 +44,12 @@ Wat een toewijzingsoperator is. Dit wil zeggen, als je nieuwe variabele maakt, h
 [https://www.studieanker.be/js/003-variabelen.html#waarde-toewijzen](https://www.studieanker.be/js/003-variabelen.html#waarde-toewijzen
 )
 
+---
+
 Wat is het resultaat van:
 ```JavaScript
     let getal = 5;
-    getal -=3;
+    getal -=3; // zorg dat je begrijpt wat deze regel doet!
     console.log(getal)
 ```
 
@@ -48,13 +57,19 @@ Voor meer info:
 
 [https://www.studieanker.be/js/004-bewerkingen.html#toewijzingsoperators](https://www.studieanker.be/js/004-bewerkingen.html#toewijzingsoperators)
 
+---
+
 Wat doet een alert?
 
 [https://www.studieanker.be/js/002-opdrachten.html#opdrachtregels](https://www.studieanker.be/js/002-opdrachten.html#opdrachtregels)
 
+---
+
 Hoe kan je strings optellen / op elkaar plakken?
 
 [https://www.studieanker.be/js/004-bewerkingen.html#strings-optellen](https://www.studieanker.be/js/004-bewerkingen.html#strings-optellen)
+
+---
 
 Hoe werkt if than else?
 
@@ -62,9 +77,13 @@ Hoe kan je weten welke regel code zal uitgevoerd worden afhankelijk van de condi
 
 [https://www.studieanker.be/js/005-condities.html#controlestructuur-if-statement](https://www.studieanker.be/js/005-condities.html#controlestructuur-if-statement)
 
+---
+
 probeer code in dit hoofdstuk eens uit in console:
 
 [https://www.studieanker.be/js/005-condities.html#nesten-van-if-statements](https://www.studieanker.be/js/005-condities.html#nesten-van-if-statements)
+
+---
 
 Hoe werkt een lus / for loop? Als i = 0 is en je print i telkens uit, wat zal het eerste getal zijn?
 
