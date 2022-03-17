@@ -142,3 +142,15 @@ console.log(getal);
 
 
 [https://www.studieanker.be/js/006-lussen.html#for-lus](https://www.studieanker.be/js/006-lussen.html#for-lus)
+
+---
+
+Wat is het resultaat van dit:
+
+```JavaScript
+let waarde1 = true || false;
+let waarde2 = false || false;
+let waarde3 = true || true;
+// probeer nu telkens voor elke waarde eens uit te printen en te raden wat het resultaat is voor je op enter drukt
+console.log('vul naam van variabele in zonder aanhalingstekens');
+```
