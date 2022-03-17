@@ -35,6 +35,10 @@ Wat geldige variabele namen zijn in JavaScript. Met wat mag een variabele naam z
 
 Verschil tussen `0` en `null`?
 
+https://nl.wikipedia.org/wiki/Null
+
+---
+
 Verschil tussen een object, een array (tekenreeks), boolean.
 
 Verschil tussen een string & een nummer. Hoe kan je dat herkennen?
@@ -85,6 +89,23 @@ probeer code in dit hoofdstuk eens uit in console:
 
 ---
 
-Hoe werkt een lus / for loop? Als i = 0 is en je print i telkens uit, wat zal het eerste getal zijn?
+Hoe werkt een lus / for loop? met andere woorden:
+- Wat is de "begin opdracht" bij een for loop / lus ([uitleg](https://www.studieanker.be/js/006-lussen.html#beginopdracht))?
+- Wat is de "conditie" bij een for loop? ([uitleg](https://www.studieanker.be/js/006-lussen.html#conditie))
+- Wat is de "Incrementopdracht" bij een for loop? ([uitleg](https://www.studieanker.be/js/006-lussen.html#incrementopdracht))
+
+
+Voer deze code uit in de console en vertel me wat het eind resultaat zal zijn ***als je 8 verandert naar 5***.
+
+```JavaScript
+let getal = 8; // verander dit naar 5
+
+for (let i = 0; i < 5; i++) {
+    getal *= 10;
+}
+
+console.log(getal);
+```
+
 
 [https://www.studieanker.be/js/006-lussen.html#for-lus](https://www.studieanker.be/js/006-lussen.html#for-lus)
