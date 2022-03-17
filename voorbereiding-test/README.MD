@@ -26,7 +26,7 @@ Wat geldige variabele namen zijn in JavaScript.
 [https://www.studieanker.be/js/003-variabelen.html#variabelenaam](https://www.studieanker.be/js/003-variabelen.html#variabelenaam
 )
 
-Verschil tussen ´0´ en ´null´?
+Verschil tussen `0` en `null`?
 
 Verschil tussen een object, een array (tekenreeks), boolean.
 
@@ -38,11 +38,11 @@ Wat een toewijzingsoperator is. Dit wil zeggen, als je nieuwe variabele maakt, h
 )
 
 Wat is het resultaat van:
-´´´JavaScript
+```JavaScript
     let getal = 5;
     getal -=3;
     console.log(getal)
-´´´
+```
 
 Voor meer info:
 
